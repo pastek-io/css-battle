@@ -1,6 +1,6 @@
 # Daily Targets: 23 September 2024
 
-![23 September 2024](2024-09-23.png)
+![23 September 2024](./result.png)
 
 ``` html
 <div></div>

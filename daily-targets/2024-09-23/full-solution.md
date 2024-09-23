@@ -1,0 +1,44 @@
+# Daily Targets: 23 September 2024
+
+![23 September 2024](2024-09-23.png)
+
+``` html
+<div></div>
+<style>
+  body {
+    background: #5D3A3A;
+    display: grid;
+    place-items: center;
+  }
+  div {
+    width: 200px;
+    height: 40px;
+    background: #B5E0BA;
+    position: relative;
+  }
+  div::before {
+    content: '';
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    top: -200%;
+    left: 50%;
+    transform: translateX(-50%);
+
+    border-radius: 50px;
+    background: #B5E0BA;
+  }
+  div::after {
+    content: '';
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    top: 150%;
+    left: 50%;
+    transform: translateX(-50%);
+
+    border-radius: 50px;
+    background: #B5E0BA;
+  }
+</style>
+```

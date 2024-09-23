@@ -1,5 +1,7 @@
 # Daily Targets: 22 September 2024
 
+[Target (22/9/2024) - CSSBattle](https://cssbattle.dev/play/UNWmPjSqeXcjNhNIvuVT)
+
 ![22 September 2024](./result.png)
 
 ``` html
